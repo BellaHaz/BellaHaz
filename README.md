@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 😸
+🌱 I’m currently learning Python and MySQL, thinking about ideas to start my portfolio 🐸🐜🕷🌳
+
+I've been a project manager for years and years, looking to change careers into software dev 
+
 
 <!--
 **BellaHaz/BellaHaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
